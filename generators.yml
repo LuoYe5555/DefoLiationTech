@@ -116,6 +116,65 @@ YJKYTJ_2:
         type: VANILLA
         id: MAGMA_BLOCK
         amount: 2
+YJKYTJ_3:
+  category: lyytj
+  generator-name: '&c岩浆块一体机&7-&fIII'
+  generator-lore:
+  - '&71s/2items'
+  block-type: SKULL721d0930bd61fea4cb9027b00e94e13d62029c524ea0b3260c747457ba1bcfa1
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-production: 16
+    energy-buffer: 512
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: DAMASCUS_STEEL_INGOT
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: BASIC_CIRCUIT_BOARD
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: DAMASCUS_STEEL_INGOT
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: HARDENED_GLASS
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: YJKYTJ_2
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: HARDENED_GLASS
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: ALUMINUM_BRONZE_INGOT
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ELECTRIC_MOTOR
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: ALUMINUM_BRONZE_INGOT
+      amount: 1
+  recipes:
+    '1':
+      time-in-seconds: 1
+      input:
+        type: VANILLA
+        id: COBBLESTONE
+        amount: 8
+      output:
+        type: VANILLA
+        id: MAGMA_BLOCK
+        amount: 2
 FLFDJ:
   category: lyfdj
   generator-name: '&b福利发电机'
@@ -174,4 +233,358 @@ FLFDJ:
         id: N/A
         amount: 1
   generator-lore:
-  - null
+  - 当心爆炸哦.
+SYKYTJ_1:
+  category: lyytj
+  generator-name: '&f石英块一体机&7-&fI'
+  generator-lore:
+  - '&74s/2items'
+  block-type: SKULLd3b5001a67007a93ade6659175e9054a92976b087fc629f042bcd57e7757646a
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-production: 4
+    energy-buffer: 512
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: SILICON
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: BASIC_CIRCUIT_BOARD
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: SILICON
+      amount: 1
+    '4':
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ELECTRIC_MOTOR
+      amount: 1
+    '6':
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+    '7':
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ELECTRIC_MOTOR
+      amount: 1
+    '9':
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+  recipes:
+    '1':
+      time-in-seconds: 4
+      input:
+        type: VANILLA
+        id: COBBLESTONE
+        amount: 4
+      output:
+        type: VANILLA
+        id: QUARTZ_BLOCK
+        amount: 2
+SYKYTJ_2:
+  category: lyytj
+  generator-name: '&f石英块一体机&7-&fII'
+  generator-lore:
+  - '&72s/2items'
+  block-type: SKULLd3b5001a67007a93ade6659175e9054a92976b087fc629f042bcd57e7757646a
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-production: 4
+    energy-buffer: 512
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: SILICON
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: BASIC_CIRCUIT_BOARD
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: SILICON
+      amount: 1
+    '4':
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: SYKYTJ_1
+      amount: 1
+    '6':
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+    '7':
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ELECTRIC_MOTOR
+      amount: 1
+    '9':
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+  recipes:
+    '1':
+      time-in-seconds: 2
+      input:
+        type: VANILLA
+        id: COBBLESTONE
+        amount: 4
+      output:
+        type: VANILLA
+        id: QUARTZ_BLOCK
+        amount: 2
+SYKYTJ_3:
+  category: lyytj
+  generator-name: '&f石英块一体机&7-&fIII'
+  generator-lore:
+  - '&71s/2items'
+  block-type: SKULLd3b5001a67007a93ade6659175e9054a92976b087fc629f042bcd57e7757646a
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-production: 4
+    energy-buffer: 512
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: SILICON
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: BASIC_CIRCUIT_BOARD
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: SILICON
+      amount: 1
+    '4':
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: SYKYTJ_2
+      amount: 1
+    '6':
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+    '7':
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ELECTRIC_MOTOR
+      amount: 1
+    '9':
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+  recipes:
+    '1':
+      time-in-seconds: 1
+      input:
+        type: VANILLA
+        id: COBBLESTONE
+        amount: 4
+      output:
+        type: VANILLA
+        id: QUARTZ_BLOCK
+        amount: 2
+SYKYTJ_4:
+  category: lyytj
+  generator-name: '&6硅&f一体机&7-&fI'
+  generator-lore:
+  - '&71s/1item'
+  block-type: SKULLd3b5001a67007a93ade6659175e9054a92976b087fc629f042bcd57e7757646a
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-production: 4
+    energy-buffer: 512
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: SILICON
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: BASIC_CIRCUIT_BOARD
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: SILICON
+      amount: 1
+    '4':
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: SYKYTJ_3
+      amount: 1
+    '6':
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+    '7':
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ELECTRIC_MOTOR
+      amount: 1
+    '9':
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+  recipes:
+    '1':
+      time-in-seconds: 1
+      input:
+        type: VANILLA
+        id: COBBLESTONE
+        amount: 4
+      output:
+        type: SLIMEFUN
+        id: SILICON
+        amount: 1
+SYKYTJ_5:
+  category: lyytj
+  generator-name: '&6硅&f一体机&7-&fII'
+  generator-lore:
+  - '&71s/2items'
+  block-type: SKULLd3b5001a67007a93ade6659175e9054a92976b087fc629f042bcd57e7757646a
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-production: 4
+    energy-buffer: 512
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: SILICON
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: BASIC_CIRCUIT_BOARD
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: SILICON
+      amount: 1
+    '4':
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: SYKYTJ_4
+      amount: 1
+    '6':
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+    '7':
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ELECTRIC_MOTOR
+      amount: 1
+    '9':
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+  recipes:
+    '1':
+      time-in-seconds: 1
+      input:
+        type: VANILLA
+        id: COBBLESTONE
+        amount: 4
+      output:
+        type: SLIMEFUN
+        id: SILICON
+        amount: 2
+SYKYTJ_6:
+  category: lyytj
+  generator-name: '&6硅&f一体机&7-&fIII'
+  generator-lore:
+  - '&71s/4items'
+  block-type: SKULLd3b5001a67007a93ade6659175e9054a92976b087fc629f042bcd57e7757646a
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-production: 4
+    energy-buffer: 512
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: SILICON
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: BASIC_CIRCUIT_BOARD
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: SILICON
+      amount: 1
+    '4':
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: SYKYTJ_5
+      amount: 1
+    '6':
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+    '7':
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ELECTRIC_MOTOR
+      amount: 1
+    '9':
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+  recipes:
+    '1':
+      time-in-seconds: 1
+      input:
+        type: VANILLA
+        id: COBBLESTONE
+        amount: 4
+      output:
+        type: SLIMEFUN
+        id: SILICON
+        amount: 4
