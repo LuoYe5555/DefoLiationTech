@@ -5,5 +5,5 @@
  GuizhanLibPlugin
  SlimeCustomizer
  # 版本
-  Mc：1.16.5+|
+  Mc：1.16.5+
   SlimeCustomizer：≥16版本
