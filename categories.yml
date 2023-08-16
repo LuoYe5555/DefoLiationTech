@@ -1,0 +1,71 @@
+# 阅读wiki获取更多信息: https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/Categories
+ly:
+  type: nested
+  category-name: '&b落•&e叶•&c科•&3技'
+  category-item: SKULL3524882554a4e0d149b9b79159869275f52ae263a87b5505ae326b5dc8f7a75a
+  tire: 0
+lyxx:
+  type: sub
+  category-name: '&5•信息•'
+  category-item: SKULL4fde9c68bc5a89f01a5e5203eecc5367d494d55a47c81e6b1d689a0c4488b6e
+  parent: ly
+lycl:
+  type: sub
+  category-name: '§3•压缩矿物•'
+  category-item: SKULL228ff4323009d3e02fb99db0137b09f9fd999d4da1b5879e516b51dc81a5e0fd
+  parent: ly
+lyhx:
+  type: sub
+  category-name: '§6•核心•'
+  category-item: SKULL262f88ae8aa794a51cade06ff6c7f7b7a5a4160b390cca8aac0920e94dcc5af5
+  parent: ly
+lycl_1:
+  type: sub
+  category-name: '§8•零件•'
+  category-item: SKULL7a610080b0125fc4273ba603fb38feaadd1af000b5fc74afa18cee45874d1997
+  parent: ly
+lyqd:
+  type: sub
+  category-name: '&5•奇点•'
+  category-item: SKULLfa6282b3787118efb820c6df1a35af08fddc010cd6c7212874759efcff5bcdc9
+  parent: ly
+lyjg:
+  type: sub
+  category-name: '§2•机械结构•'
+  category-item: SKULL3f0a29d94a7ca51870ad9e07a2de1ffb0662fd8d8c9957c04b4fabae563c0c48
+  parent: ly
+lyjq:
+  type: sub
+  category-name: '&7•核心の机器•'
+  category-item: SKULL8cdd551cf5bf7f00fa168d3646ab85c3b2411af69ce725414821aa8e74233ddb
+  parent: ly
+lyfdj:
+  type: sub
+  category-name: '§7•发电机•'
+  category-item: SKULLc8a0279ad8f67ace46dba32c019ba4f0362189456c391ac95faad20003cdb81b
+  parent: ly
+lyewjq:
+  type: sub
+  category-name: '§8•额外机器•'
+  category-item: SKULL3c70a99b3ce10a1d86d48ae5549e70ef25dfad3d9015d665a2df36626bfa547f
+  parent: ly
+lyewgj:
+  type: sub
+  category-name: '§b•额外工具•'
+  category-item: IRON_PICKAXE
+  parent: ly
+lytyn:
+  type: sub
+  category-name: '§a•太阳能发电机•'
+  category-item: SKULLcbd41896d5d8a2994a0fc6e851f207d81ddefb7e1104e470e4b6e92765b39dbf
+  parent: ly
+lyytj:
+  type: sub
+  category-name: '§a•一体机•'
+  category-item: SKULLfe055f860bcc9a5760fb876463b42092c64001bb9d427abffd1c7e2f0d462779
+  parent: ly
+lyxc:
+  type: sub
+  category-name: '&b•落叶&e•&1星辰•'
+  category-item: SKULL279887c1b685a47eb93d9205393177e71a206095aa52865f4a3670488e7faafe
+  parent: ly
