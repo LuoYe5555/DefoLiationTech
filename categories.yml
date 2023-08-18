@@ -44,6 +44,11 @@ lyfdj:
   category-name: '§7•发电机•'
   category-item: SKULLc8a0279ad8f67ace46dba32c019ba4f0362189456c391ac95faad20003cdb81b
   parent: ly
+lydr:
+  type: sub
+  category-name: '§3•电容•'
+  category-item: SKULLb87b35d19e7123a333384bcf2f64fa136e64d168b04a9bddffee8f3b354972b1
+  parent: ly
 lyewjq:
   type: sub
   category-name: '§8•额外机器•'

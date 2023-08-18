@@ -5,8 +5,8 @@ LZTYN:
   block-type: DAYLIGHT_DETECTOR
   stats:
     energy-production:
-      day: 2560000
-      night: 1280000
+      day: 51200
+      night: 25600
   crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
@@ -48,7 +48,7 @@ LZTYN:
 FZTYN:
   category: lytyn
   generator-name: "&b腐竹专用发电机（Max）"
-  block-type: BEDROCK
+  block-type: SKULL647afb70af5f7471a31cc7c145a00876ab9334f6a753d9b4ba4731bc6c1fe6b
   stats:
     energy-production:
       day: 2147483647
