@@ -34,6 +34,11 @@ lyjg:
   category-name: '§2•机械结构•'
   category-item: SKULL3f0a29d94a7ca51870ad9e07a2de1ffb0662fd8d8c9957c04b4fabae563c0c48
   parent: ly
+lykp:
+  type: sub
+  category-name: '&7•卡片•'
+  category-item: MUSIC_DISC_PIGSTEP
+  parent: ly
 lyjq:
   type: sub
   category-name: '&7•核心の机器•'

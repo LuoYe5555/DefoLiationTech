@@ -176,5 +176,136 @@ QDYSJ:
           type: NONE
           id: N/A
           amount: 1
+    '4':
+      speed-in-seconds: 3
+      input:
+        '1':
+          type: SLIMEFUN
+          id: SOLAR_GENERATOR_4
+          amount: 64
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: CNTYNFDJQD
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
   machine-lore:
   - '&73s/item'
+SWKJSCQ:
+  category: lyjq
+  machine-name: '&6生物科技&b生成机'
+  block-type: LOOM
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-consumption: 2560
+    energy-buffer: 128
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: VANILLA
+      id: LOOM
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: POWER_CRYSTAL
+      amount: 1
+    '3':
+      type: VANILLA
+      id: LOOM
+      amount: 1
+    '4':
+      type: VANILLA
+      id: LOOM
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: DLKJ
+      amount: 1
+    '6':
+      type: VANILLA
+      id: LOOM
+      amount: 1
+    '7':
+      type: VANILLA
+      id: LOOM
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: HEATING_COIL
+      amount: 1
+    '9':
+      type: VANILLA
+      id: LOOM
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 1800
+      input:
+        '1':
+          type: SLIMEFUN
+          id: CNTYNFDJKP
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: CNTYNFDJKP
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SOLAR_GENERATOR_4
+          amount: 64
+    '2':
+      speed-in-seconds: 1800
+      input:
+        '1':
+          type: SLIMEFUN
+          id: QHHJDKP
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: QHHJDKP
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: REINFORCED_ALLOY_INGOT
+          amount: 64
+    '3':
+      speed-in-seconds: 1800
+      input:
+        '1':
+          type: SLIMEFUN
+          id: HSHJDKP
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: HSHJDKP
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: REDSTONE_ALLOY
+          amount: 64
+  machine-lore:
+  - '&a使用&b卡片&a使其运作'
+  - ''
+  - '&4终极机器'
