@@ -1,51 +1,4 @@
 # 阅读wiki获取更多信息: https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/Items
-BBXX:
-  category: lyxx
-  item-type: CUSTOM
-  item-name: "&b版本信息"
-  item-lore:
-  - "Beta-1.0.0"
-  item-id: PAPER
-  item-amount: 1
-  placeable: false
-  crafting-recipe-type: NONE
-  crafting-recipe:
-    1:
-      type: NONE
-      id: N/A
-      amount: 1
-    2:
-      type: NONE
-      id: N/A
-      amount: 1
-    3:
-      type: NONE
-      id: N/A
-      amount: 1
-    4:
-      type: NONE
-      id: N/A
-      amount: 1
-    5:
-      type: NONE
-      id: N/A
-      amount: 1
-    6:
-      type: NONE
-      id: N/A
-      amount: 1
-    7:
-      type: NONE
-      id: N/A
-      amount: 1
-    8:
-      type: NONE
-      id: N/A
-      amount: 1
-    9:
-      type: NONE
-      id: N/A
-      amount: 1
 ZZXX:
   category: lyxx
   item-type: CUSTOM
@@ -1307,4 +1260,51 @@ HSHJDKP:
     9:
       type: SLIMEFUN
       id: KPMX
+      amount: 1
+QX_QMZY:
+  category: lyqx
+  item-type: SAVEDITEM  # 注意此处需要修改为SAVEDITEM
+  item-name: "&b保存物品示例(配置自动忽略名称)"
+  item-lore:
+  - "&7配置自动忽略lore"
+  item-id: QX_QMZY # 此处为保存物品的文件名
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
       amount: 1

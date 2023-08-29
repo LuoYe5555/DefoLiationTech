@@ -4,6 +4,11 @@ ly:
   category-name: '&b落•&e叶•&c科•&3技'
   category-item: SKULL3524882554a4e0d149b9b79159869275f52ae263a87b5505ae326b5dc8f7a75a
   tire: 0
+lyqx:
+  type: sub
+  category-name: '&d•七夕•'
+  category-item: POPPY
+  parent: ly
 lyxx:
   type: sub
   category-name: '&5•信息•'
@@ -41,8 +46,13 @@ lykp:
   parent: ly
 lyjq:
   type: sub
-  category-name: '&7•核心の机器•'
+  category-name: '&7•机器•'
   category-item: SKULL8cdd551cf5bf7f00fa168d3646ab85c3b2411af69ce725414821aa8e74233ddb
+  parent: ly
+lyscq:
+  type: sub
+  category-name: '&7•生成器•'
+  category-item: SKULL4d60bf372309a37dd56e38f70bfc242b3cd93d9f8a1f835251e52a155b49a89
   parent: ly
 lyfdj:
   type: sub

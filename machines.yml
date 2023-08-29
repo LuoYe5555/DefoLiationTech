@@ -198,14 +198,14 @@ QDYSJ:
           amount: 1
   machine-lore:
   - '&73s/item'
-SWKJSCQ:
+SWKJSCQ_I:
   category: lyjq
-  machine-name: '&6生物科技&b生成机'
+  machine-name: '&6生物科技&b生成机&7-&fI'
   block-type: LOOM
   progress-bar-item: FLINT_AND_STEEL
   stats:
-    energy-consumption: 2560
-    energy-buffer: 128
+    energy-consumption: 5120
+    energy-buffer: 20480
   crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     '1':
@@ -309,3 +309,184 @@ SWKJSCQ:
   - '&a使用&b卡片&a使其运作'
   - ''
   - '&4终极机器'
+SWKJSCQ_II:
+  category: lyjq
+  machine-name: '&6生物科技&b生成机&7-&fII'
+  block-type: LOOM
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-consumption: 5120
+    energy-buffer: 20480
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: ANCIENT_RUNE_EARTH
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: POWER_CRYSTAL
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: ANCIENT_RUNE_EARTH
+      amount: 1
+    '4':
+      type: VANILLA
+      id: LOOM
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: SWKJSCQ_I
+      amount: 1
+    '6':
+      type: VANILLA
+      id: LOOM
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: ANCIENT_RUNE_EARTH
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: HEATING_COIL
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: ANCIENT_RUNE_EARTH
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 1800
+      input:
+        '1':
+          type: SLIMEFUN
+          id: CNTYNFDJKP
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: CNTYNFDJKP
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SOLAR_GENERATOR_4
+          amount: 64
+    '2':
+      speed-in-seconds: 1800
+      input:
+        '1':
+          type: SLIMEFUN
+          id: QHHJDKP
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: QHHJDKP
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: REINFORCED_ALLOY_INGOT
+          amount: 64
+    '3':
+      speed-in-seconds: 1800
+      input:
+        '1':
+          type: SLIMEFUN
+          id: HSHJDKP
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: HSHJDKP
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: REDSTONE_ALLOY
+          amount: 64
+  machine-lore:
+  - '&a使用&b卡片&a使其运作'
+  - ''
+  - '&4终极机器'
+YSSCQ:
+  category: lyscq
+  machine-name: '&f圆石&b生成器'
+  block-type: CARTOGRAPHY_TABLE
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-consumption: 4
+    energy-buffer: 16
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: VANILLA
+      id: COBBLESTONE
+      amount: 1
+    '2':
+      type: VANILLA
+      id: COBBLESTONE
+      amount: 1
+    '3':
+      type: VANILLA
+      id: COBBLESTONE
+      amount: 1
+    '4':
+      type: VANILLA
+      id: LAVA_BUCKET
+      amount: 1
+    '5':
+      type: VANILLA
+      id: DIAMOND_PICKAXE
+      amount: 1
+    '6':
+      type: VANILLA
+      id: WATER_BUCKET
+      amount: 1
+    '7':
+      type: VANILLA
+      id: COBBLESTONE
+      amount: 1
+    '8':
+      type: VANILLA
+      id: COBBLESTONE
+      amount: 1
+    '9':
+      type: VANILLA
+      id: COBBLESTONE
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: COBBLESTONE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: COBBLESTONE
+          amount: 2
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+  machine-lore:
+  - ''
+  - '&b普通机器'
