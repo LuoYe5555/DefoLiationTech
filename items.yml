@@ -769,7 +769,7 @@ LYD:
 JQKJ:
   category: lyjg
   item-type: CUSTOM
-  item-name: "&b&l机器框架"
+  item-name: "&b机器框架"
   item-id: TERRACOTTA
   item-amount: 1
   placeable: false
@@ -814,7 +814,7 @@ JQKJ:
 DLKJ:
   category: lyjg
   item-type: CUSTOM
-  item-name: "&8&l电力&b&l机器框架"
+  item-name: "&8电力&b&l机器框架"
   item-id: TERRACOTTA
   item-amount: 1
   placeable: false
@@ -859,7 +859,7 @@ DLKJ:
 YTJKJ:
   category: lyjg
   item-type: CUSTOM
-  item-name: "&8&l一体机&b&l机器框架"
+  item-name: "&8一体机&b&l机器框架"
   item-id: TERRACOTTA
   item-amount: 1
   placeable: false

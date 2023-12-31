@@ -315,7 +315,7 @@ SWKJSCQ_II:
   block-type: LOOM
   progress-bar-item: FLINT_AND_STEEL
   stats:
-    energy-consumption: 5120
+    energy-consumption: 10240
     energy-buffer: 20480
   crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
@@ -357,7 +357,7 @@ SWKJSCQ_II:
       amount: 1
   recipes:
     '1':
-      speed-in-seconds: 1800
+      speed-in-seconds: 900
       input:
         '1':
           type: SLIMEFUN
@@ -377,7 +377,7 @@ SWKJSCQ_II:
           id: SOLAR_GENERATOR_4
           amount: 64
     '2':
-      speed-in-seconds: 1800
+      speed-in-seconds: 900
       input:
         '1':
           type: SLIMEFUN
@@ -397,7 +397,7 @@ SWKJSCQ_II:
           id: REINFORCED_ALLOY_INGOT
           amount: 64
     '3':
-      speed-in-seconds: 1800
+      speed-in-seconds: 900
       input:
         '1':
           type: SLIMEFUN
