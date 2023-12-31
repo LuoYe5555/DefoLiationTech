@@ -190,8 +190,8 @@ FLFDJ:
       id: IRON_BLOCK
       amount: 1
     '2':
-      type: VANILLA
-      id: TNT
+      type: NONE
+      id: N/A
       amount: 1
     '3':
       type: VANILLA
@@ -233,7 +233,7 @@ FLFDJ:
         id: N/A
         amount: 1
   generator-lore:
-  - 当心爆炸哦
+  - 当心爆炸哦.
 SYKYTJ_1:
   category: lyytj
   generator-name: '&f石英块一体机&7-&fI'

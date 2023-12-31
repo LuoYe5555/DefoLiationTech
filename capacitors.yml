@@ -26,8 +26,8 @@ WXDR:
       id: DIRT
       amount: 1
     5:
-      type: VANILLA
-      id: DIRT
+      type: NONE
+      id: N/A
       amount: 1
     6:
       type: VANILLA
