@@ -4,7 +4,7 @@ ZZXX:
   item-type: CUSTOM
   item-name: "&b作者信息"
   item-lore:
-  - "lyen出品"
+  - "&flyen出品"
   item-id: PAPER
   item-amount: 1
   placeable: false
@@ -500,7 +500,7 @@ MFHX:
   category: lyhx
   item-type: CUSTOM
   item-name: "&e魔法&b核心"
-  item-id: IRON_INGOT
+  item-id: BLAZE_POWDER
   item-amount: 1
   placeable: false
   crafting-recipe-type: ENHANCED_CRAFTING_TABLE
@@ -545,7 +545,7 @@ MYHX:
   category: lyhx
   item-type: CUSTOM
   item-name: "&5末影&b核心"
-  item-id: IRON_INGOT
+  item-id: ENDER_EYE
   item-amount: 1
   placeable: false
   crafting-recipe-type: ENHANCED_CRAFTING_TABLE
@@ -814,7 +814,7 @@ JQKJ:
 DLKJ:
   category: lyjg
   item-type: CUSTOM
-  item-name: "&8电力&b&l机器框架"
+  item-name: "&8电力&b机器框架"
   item-id: TERRACOTTA
   item-amount: 1
   placeable: false
@@ -859,7 +859,7 @@ DLKJ:
 YTJKJ:
   category: lyjg
   item-type: CUSTOM
-  item-name: "&8一体机&b&l机器框架"
+  item-name: "&8一体机&b机器框架"
   item-id: TERRACOTTA
   item-amount: 1
   placeable: false
