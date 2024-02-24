@@ -46,7 +46,7 @@ LZTYN:
       id: LYD
       amount: 1
 LZTYNII:
-  category: lytyn
+  category: lyfdj
   generator-name: "&5量子太阳能II"
   block-type: DAYLIGHT_DETECTOR
   stats:
