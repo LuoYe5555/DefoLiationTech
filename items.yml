@@ -1,51 +1,4 @@
 # 阅读wiki获取更多信息: https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/Items
-ZZXX:
-  category: lyxx
-  item-type: CUSTOM
-  item-name: "&b作者信息"
-  item-lore:
-  - "&flyen出品"
-  item-id: PAPER
-  item-amount: 1
-  placeable: false
-  crafting-recipe-type: NONE
-  crafting-recipe:
-    1:
-      type: NONE
-      id: N/A
-      amount: 1
-    2:
-      type: NONE
-      id: N/A
-      amount: 1
-    3:
-      type: NONE
-      id: N/A
-      amount: 1
-    4:
-      type: NONE
-      id: N/A
-      amount: 1
-    5:
-      type: NONE
-      id: N/A
-      amount: 1
-    6:
-      type: NONE
-      id: N/A
-      amount: 1
-    7:
-      type: NONE
-      id: N/A
-      amount: 1
-    8:
-      type: NONE
-      id: N/A
-      amount: 1
-    9:
-      type: NONE
-      id: N/A
-      amount: 1
 YSZSK:
   category: lycl
   item-type: CUSTOM
@@ -452,7 +405,7 @@ YSXJY:
       id: NETHERRACK
       amount: 1
 KWHX:
-  category: lyhx
+  category: lycl
   item-type: CUSTOM
   item-name: "&c矿物核心"
   item-id: HEART_OF_THE_SEA
@@ -497,10 +450,10 @@ KWHX:
       id: YSXJY
       amount: 1
 MFHX:
-  category: lyhx
+  category: lycl
   item-type: CUSTOM
   item-name: "&e魔法&b核心"
-  item-id: BLAZE_POWDER
+  item-id: IRON_INGOT
   item-amount: 1
   placeable: false
   crafting-recipe-type: ENHANCED_CRAFTING_TABLE
@@ -542,10 +495,10 @@ MFHX:
       id: MAGIC_LUMP_3
       amount: 1
 MYHX:
-  category: lyhx
+  category: lycl
   item-type: CUSTOM
   item-name: "&5末影&b核心"
-  item-id: ENDER_EYE
+  item-id: IRON_INGOT
   item-amount: 1
   placeable: false
   crafting-recipe-type: ENHANCED_CRAFTING_TABLE
@@ -587,7 +540,7 @@ MYHX:
       id: ENDER_LUMP_3
       amount: 1
 MFHX:
-  category: lyhx
+  category: lycl
   item-type: CUSTOM
   item-name: "&e魔法&b核心"
   item-id: IRON_INGOT
@@ -632,7 +585,7 @@ MFHX:
       id: MAGIC_LUMP_3
       amount: 1
 LYFC:
-  category: lycl_1
+  category: lycl
   item-type: CUSTOM
   item-name: "&b落叶&7尘"
   item-id: GUNPOWDER
@@ -677,7 +630,7 @@ LYFC:
       id: POWER_CRYSTAL
       amount: 1
 LYLZ:
-  category: lycl_1
+  category: lycl
   item-type: CUSTOM
   item-name: "&b落叶&7粒"
   item-id: IRON_NUGGET
@@ -722,7 +675,7 @@ LYLZ:
       id: LYFC
       amount: 1
 LYD:
-  category: lycl_1
+  category: lycl
   item-type: CUSTOM
   item-name: "&b落叶&7锭"
   item-id: NETHERITE_INGOT
@@ -767,7 +720,7 @@ LYD:
       id: LYLZ
       amount: 1
 JQKJ:
-  category: lyjg
+  category: lycl
   item-type: CUSTOM
   item-name: "&b机器框架"
   item-id: TERRACOTTA
@@ -812,7 +765,7 @@ JQKJ:
       id: HEATING_COIL
       amount: 1
 DLKJ:
-  category: lyjg
+  category: lycl
   item-type: CUSTOM
   item-name: "&8电力&b机器框架"
   item-id: TERRACOTTA
@@ -857,7 +810,7 @@ DLKJ:
       id: HEATING_COIL
       amount: 1
 YTJKJ:
-  category: lyjg
+  category: lycl
   item-type: CUSTOM
   item-name: "&8一体机&b机器框架"
   item-id: TERRACOTTA
@@ -1260,51 +1213,4 @@ HSHJDKP:
     9:
       type: SLIMEFUN
       id: KPMX
-      amount: 1
-QX_QMZY:
-  category: lyqx
-  item-type: SAVEDITEM  # 注意此处需要修改为SAVEDITEM
-  item-name: "&b保存物品示例(配置自动忽略名称)"
-  item-lore:
-  - "&7配置自动忽略lore"
-  item-id: QX_QMZY # 此处为保存物品的文件名
-  item-amount: 1
-  placeable: false
-  crafting-recipe-type: NONE
-  crafting-recipe:
-    1:
-      type: NONE
-      id: N/A
-      amount: 1
-    2:
-      type: NONE
-      id: N/A
-      amount: 1
-    3:
-      type: NONE
-      id: N/A
-      amount: 1
-    4:
-      type: NONE
-      id: N/A
-      amount: 1
-    5:
-      type: NONE
-      id: N/A
-      amount: 1
-    6:
-      type: NONE
-      id: N/A
-      amount: 1
-    7:
-      type: NONE
-      id: N/A
-      amount: 1
-    8:
-      type: NONE
-      id: N/A
-      amount: 1
-    9:
-      type: NONE
-      id: N/A
       amount: 1

@@ -1,12 +1,12 @@
 # 阅读wiki获取更多信息: https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/Solar-Generators
 LZTYN:
-  category: lytyn
-  generator-name: "&5&l量子太阳能I"
+  category: lyfdj
+  generator-name: "&5量子太阳能I"
   block-type: DAYLIGHT_DETECTOR
   stats:
     energy-production:
-      day: 51200
-      night: 25600
+      day: 512
+      night: 256
   crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
@@ -47,12 +47,12 @@ LZTYN:
       amount: 1
 LZTYNII:
   category: lytyn
-  generator-name: "&5&l量子太阳能II"
+  generator-name: "&5量子太阳能II"
   block-type: DAYLIGHT_DETECTOR
   stats:
     energy-production:
-      day: 102400
-      night: 51200
+      day: 1024
+      night: 512
   crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
@@ -92,7 +92,7 @@ LZTYNII:
       id: LYD
       amount: 1
 FZTYN:
-  category: lytyn
+  category: lyfdj
   generator-name: "&b腐竹专用发电机（Max）"
   block-type: SKULL647afb70af5f7471a31cc7c145a00876ab9334f6a753d9b4ba4731bc6c1fe6b
   stats:
